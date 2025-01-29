@@ -1,0 +1,341 @@
+{
+  "ok": true,
+  "channels": [
+    {
+      "id": "C05J851F0SH",
+      "name": "일반",
+      "is_channel": true,
+      "is_group": false,
+      "is_im": false,
+      "is_mpim": false,
+      "is_private": false,
+      "created": 1690099273,
+      "is_archived": false,
+      "is_general": true,
+      "unlinked": 0,
+      "name_normalized": "일반",
+      "is_shared": false,
+      "is_org_shared": false,
+      "is_pending_ext_shared": false,
+      "pending_shared": [],
+      "context_team_id": "T05J851EM2R",
+      "updated": 1738146644045,
+      "parent_conversation": null,
+      "creator": "U05JPMPU5KK",
+      "is_ext_shared": false,
+      "shared_team_ids": [
+        "T05J851EM2R"
+      ],
+      "pending_connected_team_ids": [],
+      "is_member": true,
+      "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+      },
+      "purpose": {
+        "value": "이것은 언제나 모두를 포함하게 될 단 하나의 채널로 공지를 올리고 팀 전체의 대화를 나누기에 적합한 공간입니다.",
+        "creator": "U05JPMPU5KK",
+        "last_set": 1690099273
+      },
+      "properties": {
+        "use_case": "welcome"
+      },
+      "previous_names": [],
+      "num_members": 2
+    },
+    {
+      "id": "C05JDFY4H36",
+      "name": "랜덤",
+      "is_channel": true,
+      "is_group": false,
+      "is_im": false,
+      "is_mpim": false,
+      "is_private": false,
+      "created": 1690099274,
+      "is_archived": false,
+      "is_general": false,
+      "unlinked": 0,
+      "name_normalized": "랜덤",
+      "is_shared": false,
+      "is_org_shared": false,
+      "is_pending_ext_shared": false,
+      "pending_shared": [],
+      "context_team_id": "T05J851EM2R",
+      "updated": 1724943890392,
+      "parent_conversation": null,
+      "creator": "U05JPMPU5KK",
+      "is_ext_shared": false,
+      "shared_team_ids": [
+        "T05J851EM2R"
+      ],
+      "pending_connected_team_ids": [],
+      "is_member": false,
+      "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+      },
+      "purpose": {
+        "value": "이것은 나머지 모든 것을 위한 채널입니다. 팀원들이 농담하거나 순간적인 아이디어나 재미있는 GIF를 공유하는 곳이죠! 마음껏 즐기세요!",
+        "creator": "U05JPMPU5KK",
+        "last_set": 1690099274
+      },
+      "properties": {
+        "use_case": "random"
+      },
+      "previous_names": [],
+      "num_members": 1
+    },
+    {
+      "id": "C05K0PQC316",
+      "name": "cu-development",
+      "is_channel": true,
+      "is_group": false,
+      "is_im": false,
+      "is_mpim": false,
+      "is_private": false,
+      "created": 1690099400,
+      "is_archived": false,
+      "is_general": false,
+      "unlinked": 0,
+      "name_normalized": "cu-development",
+      "is_shared": false,
+      "is_org_shared": false,
+      "is_pending_ext_shared": false,
+      "pending_shared": [],
+      "context_team_id": "T05J851EM2R",
+      "updated": 1724943890438,
+      "parent_conversation": null,
+      "creator": "U05JPMPU5KK",
+      "is_ext_shared": false,
+      "shared_team_ids": [
+        "T05J851EM2R"
+      ],
+      "pending_connected_team_ids": [],
+      "is_member": false,
+      "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+      },
+      "purpose": {
+        "value": "이 채널은 모두 #cu-development에 관한 것입니다. 미팅, 문서 공유, 의사 결정 모두 팀과 함께 진행하세요.",
+        "creator": "U05JPMPU5KK",
+        "last_set": 1690099400
+      },
+      "properties": {
+        "use_case": "project"
+      },
+      "previous_names": [],
+      "num_members": 1
+    },
+    {
+      "id": "C05MEPL3JTC",
+      "name": "cw-githubaction",
+      "is_channel": true,
+      "is_group": false,
+      "is_im": false,
+      "is_mpim": false,
+      "is_private": false,
+      "created": 1691762041,
+      "is_archived": false,
+      "is_general": false,
+      "unlinked": 0,
+      "name_normalized": "cw-githubaction",
+      "is_shared": false,
+      "is_org_shared": false,
+      "is_pending_ext_shared": false,
+      "pending_shared": [],
+      "context_team_id": "T05J851EM2R",
+      "updated": 1724943890456,
+      "parent_conversation": null,
+      "creator": "U05JPMPU5KK",
+      "is_ext_shared": false,
+      "shared_team_ids": [
+        "T05J851EM2R"
+      ],
+      "pending_connected_team_ids": [],
+      "is_member": false,
+      "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+      },
+      "purpose": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+      },
+      "previous_names": [],
+      "num_members": 1
+    },
+    {
+      "id": "C06JL57RJGN",
+      "name": "graphite-test",
+      "is_channel": true,
+      "is_group": false,
+      "is_im": false,
+      "is_mpim": false,
+      "is_private": false,
+      "created": 1707923374,
+      "is_archived": false,
+      "is_general": false,
+      "unlinked": 0,
+      "name_normalized": "graphite-test",
+      "is_shared": false,
+      "is_org_shared": false,
+      "is_pending_ext_shared": false,
+      "pending_shared": [],
+      "context_team_id": "T05J851EM2R",
+      "updated": 1724943890484,
+      "parent_conversation": null,
+      "creator": "U05JPMPU5KK",
+      "is_ext_shared": false,
+      "shared_team_ids": [
+        "T05J851EM2R"
+      ],
+      "pending_connected_team_ids": [],
+      "is_member": false,
+      "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+      },
+      "purpose": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+      },
+      "previous_names": [],
+      "num_members": 1
+    },
+    {
+      "id": "C07Q3LMFHAT",
+      "name": "08-news-geeknews",
+      "is_channel": true,
+      "is_group": false,
+      "is_im": false,
+      "is_mpim": false,
+      "is_private": false,
+      "created": 1728110310,
+      "is_archived": false,
+      "is_general": false,
+      "unlinked": 0,
+      "name_normalized": "08-news-geeknews",
+      "is_shared": false,
+      "is_org_shared": false,
+      "is_pending_ext_shared": false,
+      "pending_shared": [],
+      "context_team_id": "T05J851EM2R",
+      "updated": 1728174244953,
+      "parent_conversation": null,
+      "creator": "U05JPMPU5KK",
+      "is_ext_shared": false,
+      "shared_team_ids": [
+        "T05J851EM2R"
+      ],
+      "pending_connected_team_ids": [],
+      "is_member": false,
+      "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+      },
+      "purpose": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+      },
+      "previous_names": [
+        "geeknews"
+      ],
+      "num_members": 1
+    },
+    {
+      "id": "C07QBJDB1RU",
+      "name": "08-news-요즘it",
+      "is_channel": true,
+      "is_group": false,
+      "is_im": false,
+      "is_mpim": false,
+      "is_private": false,
+      "created": 1728110233,
+      "is_archived": false,
+      "is_general": false,
+      "unlinked": 0,
+      "name_normalized": "08-news-요즘it",
+      "is_shared": false,
+      "is_org_shared": false,
+      "is_pending_ext_shared": false,
+      "pending_shared": [],
+      "context_team_id": "T05J851EM2R",
+      "updated": 1728174224318,
+      "parent_conversation": null,
+      "creator": "U05JPMPU5KK",
+      "is_ext_shared": false,
+      "shared_team_ids": [
+        "T05J851EM2R"
+      ],
+      "pending_connected_team_ids": [],
+      "is_member": false,
+      "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+      },
+      "purpose": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+      },
+      "previous_names": [
+        "요즘it"
+      ],
+      "num_members": 1
+    },
+    {
+      "id": "C08BE32MSL8",
+      "name": "slack-playground",
+      "is_channel": true,
+      "is_group": false,
+      "is_im": false,
+      "is_mpim": false,
+      "is_private": false,
+      "created": 1738116832,
+      "is_archived": false,
+      "is_general": false,
+      "unlinked": 0,
+      "name_normalized": "slack-playground",
+      "is_shared": false,
+      "is_org_shared": false,
+      "is_pending_ext_shared": false,
+      "pending_shared": [],
+      "context_team_id": "T05J851EM2R",
+      "updated": 1738116832851,
+      "parent_conversation": null,
+      "creator": "U05JPMPU5KK",
+      "is_ext_shared": false,
+      "shared_team_ids": [
+        "T05J851EM2R"
+      ],
+      "pending_connected_team_ids": [],
+      "is_member": false,
+      "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+      },
+      "purpose": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+      },
+      "previous_names": [],
+      "num_members": 1
+    }
+  ],
+  "response_metadata": {
+    "next_cursor": ""
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "ok": true,
+  "channel": "C05J851F0SH",
+  "ts": "1738151372.937489",
+  "message": {
+    "user": "U08ATDGK58C",
+    "type": "message",
+    "ts": "1738151372.937489",
+    "bot_id": "B08AQQV2AQK",
+    "app_id": "A08B39XDSPK",
+    "text": "Hello, World!",
+    "team": "T05J851EM2R",
+    "bot_profile": {
+      "id": "B08AQQV2AQK",
+      "app_id": "A08B39XDSPK",
+      "name": "post-and-comment",
+      "icons": {
+        "image_36": "https://a.slack-edge.com/80588/img/plugins/app/bot_36.png",
+        "image_48": "https://a.slack-edge.com/80588/img/plugins/app/bot_48.png",
+        "image_72": "https://a.slack-edge.com/80588/img/plugins/app/service_72.png"
+      },
+      "deleted": false,
+      "updated": 1738109813,
+      "team_id": "T05J851EM2R"
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "oZyGH",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hello, World!"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "warning": "missing_charset",
+  "response_metadata": {
+    "warnings": [
+      "missing_charset"
+    ]
+  }
+}
