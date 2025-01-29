@@ -1,10 +1,10 @@
-import httpx
-from pathlib import Path
-import tomllib
 import json
-from pydantic_settings import BaseSettings, SettingsConfigDict
-from pydantic import Field
 import logging
+from pathlib import Path
+
+import httpx
+from pydantic import Field
+from pydantic_settings import BaseSettings, SettingsConfigDict
 
 formatter = logging.Formatter("%(asctime)s - %(levelname)s - %(message)s")
 
@@ -198,6 +198,14 @@ def post_comments(config: Config):
     except Exception as e:
         logger.info(f"Error during request: {e}")
         return 1, ""
+
+    if r.status_code != 200:
+        logger.info(f"Error: {r.status_code}")
+        return 1
+
+    if r.json().get("ok") is not True:
+        logger.info(f"Error: {r.json()}")
+        return 1
 
     return 0
 
